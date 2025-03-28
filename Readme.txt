@@ -1,37 +1,38 @@
-https://rakshitha6420044.github.io/html_logic_project/
-== Theme Name: Logic - Free Html5 Multipurpose Business Template
+# 🏢 Logic - Free HTML5 Multipurpose Business Template  
 
-== Copyright (c) 2016 BootstrapThemes.co
+🌍 Live Preview: [View the Project](https://vijay-ky.github.io/html_logic_project/)  
 
-== http://BootstrapThemes.co
+## 📌 About This Project  
+Logic is a free, modern, and fully responsive HTML5 multipurpose business template. It is designed to provide a professional online presence for startups, agencies, businesses, and freelancers. Built using Bootstrap, this template offers flexibility, clean design, and easy customization.  
 
+## 🎨 Features & Technologies  
+✅ Bootstrap Framework 🏗️  
+✅ HTML5 & CSS3 🎨  
+✅ Fully Responsive & Mobile-Friendly 📱  
+✅ Smooth Animations & Interactions ✨  
+✅ Multipurpose & Customizable Design 🔧  
+✅ Google Fonts & Font Awesome Icons 🔠  
+✅ Cross-Browser Compatibility 🌐  
 
+## 🛠️ Getting Started  
+To use this template, you can:  
+1. Clone the Repository  
+   ```sh
+   git clone https://github.com/vijay-ky/html_logic_project.git
+   ```
+2. Open `index.html` in your browser and start customizing!  
 
-Html Created by: http://bootstrapthemes.co
+## 👨‍💻 Credits & License  
+- Template Created by: [BootstrapThemes.co](http://bootstrapthemes.co)  
+- PSD Design by: [Arifuzzaman Sajib](https://www.behance.net/gallery/31881449/Free-Multipurpose-Business-PSD-Template)  
 
+📜 License:  
+You are allowed to use and modify this template for personal and commercial projects. Attribution is not required but appreciated.  
 
+🚫 Prohibited Uses:  
+- Redistribution, reselling, leasing, or sublicensing of the template "as is" is not allowed.  
+- Direct hotlinking to template files or images is prohibited.  
 
-Psd Created by: --Arifuzzaman Sajib-- https://www.behance.net/gallery/31881449/Free-Multipurpose-Business-PSD-Template
+For detailed terms, visit [BootstrapThemes.co](http://bootstrapthemes.co).  
 
-
-Rights: 
-You are permitted to use the resources for any number of personal and commercial projects.
-You may modify the resources according to your requirements and include them into works, 
-such as websites, applications or other materials intended for sale. No attribution or 
-link back to this site is required, however any credit will be much appreciated.
-
-
-Prohibitions:
-You do not have the rights to redistribute, resell, lease, license, sublicense or offer 
-files downloaded from http://bootstrapthemes.co to any third party ìas isî or as a separate attachment 
-from any of your work. If you wish to promote my resources on your site, you must link back 
-to the resource page where users can find the download and not directly to the download file.
-
-
-
-If you would like to share one of my resources, you can do so by making a link to the specific 
-resource on http://bootstrapthemes.co , you can if you wish insert the embed code for the product previews images to illustrate your link. 
-No HOTLINKING is allowed i.e. you cannot make a direct link to the download or/and the images hosted on http://bootstrapthemes.co
-
-Concerning blog posts, you are free to link to it from any website, 
-but you cannot however publish it as it is, without prior consent from http://bootstrapthemes.co
+💡 Build your next business website with Logic today! 🚀  
